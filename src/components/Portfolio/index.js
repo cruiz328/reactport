@@ -9,7 +9,7 @@ function Portfolio() {
       name: 'calendarapi',
       description: 'MERN Stack',
       link: "https://github.com/keneversley/calendarapi#calender-api",
-      repo: "https://keneversley.github.io/calendarapi/"
+      repo: "https://github.com/UlisesRosas/6-FeetAway-Gaming"
     },
    
     {
